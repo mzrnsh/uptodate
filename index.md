@@ -42,6 +42,10 @@ title: "Happy Jekylling!"
   </div>
 </div>
 
+<div class="text-center">
+  This site is not working yet, sorry! 😬
+</div>
+
 <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 <script>
   new Typewriter('#typewriter', {
