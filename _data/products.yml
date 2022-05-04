@@ -2,16 +2,19 @@
 ---
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   version: 3.0.24
-  name: Tailwind CSS
   handle: tailwind
+  name: Tailwind CSS
+  weightless_id: fioalowz
   id: rec41IcxHOE3f9KU1
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   version: 7.0.2.3
-  name: Ruby on Rails
   handle: rails
+  name: Ruby on Rails
+  weightless_id: ed2k77ty
   id: recXh3RJKAfcsM4Kx
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   version: 6.1.0
-  name: Font Awesome
   handle: font-awesome
+  name: Font Awesome
+  weightless_id: gy6m7wkn
   id: recpx0BkIPC8VWkD9

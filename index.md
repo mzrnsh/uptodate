@@ -15,9 +15,9 @@ title: what?
       Ruby on Rails, Font Awesome, Tailwind CSS etc
     "
     class="
-      w-60 text-center mx-2 border-b border-gray-300 outline-none
-      focus:border-gray-500 placeholder:text-transparent
-      relative z-10 peer bg-transparent
+      w-60 text-center mx-2 border-b border-0 p-0 border-gray-300 text-2xl
+      outline-none focus:border-gray-500 focus:ring-white
+      relative z-10 peer bg-transparent placeholder:text-transparent
     "
     required
   >
