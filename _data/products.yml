@@ -3,12 +3,15 @@
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   version: 3.0.24
   name: Tailwind CSS
+  handle: tailwind
   id: rec41IcxHOE3f9KU1
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   version: 7.0.2.3
   name: Ruby on Rails
+  handle: rails
   id: recXh3RJKAfcsM4Kx
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   version: 6.1.0
   name: Font Awesome
+  handle: font-awesome
   id: recpx0BkIPC8VWkD9
