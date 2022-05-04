@@ -3,7 +3,7 @@ layout: default
 title: "Happy Jekylling!"
 ---
 
-<div class="relative text-2xl flex justify-center">
+<div class="relative text-2xl flex justify-center font-extralight">
   <div>
     Check which
   </div>

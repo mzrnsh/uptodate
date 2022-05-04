@@ -7,6 +7,24 @@ description: >-
 
 plugins:
   - jekyll-postcss
+  - jekyll-datapage-generator
 
 postcss:
   cache: false
+
+page_gen-dirs: true
+
+page_gen:
+- data: products
+  template: product
+  dir: ''
+  # index_files: false
+  name: name
+  # name_expr: [a Ruby expression to generate the filename (alternative to name)]
+  title: name
+  # title_expr: [a Ruby expression to generate the filename (alternative to title)]
+  # extension: [extension used to generate the filename]
+  # filter: [property to filter data records by]
+  # filter_condition: [a Ruby expression to filter data]
+  # page_data_prefix: [prefix used to name variables]
+  # debug: true
